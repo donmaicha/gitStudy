@@ -1,4 +1,4 @@
-# GitHub実践入門を読んで学んだことまとめ
+## GitHub実践入門を読んで学んだことまとめ
 ## まとめた内容をgitHubPagesを用いて公開してみる
 [HOME](https://donmaicha.github.io/gitStudy/) 
 <br>
